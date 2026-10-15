@@ -38,8 +38,7 @@ Uma plataforma web moderna, extremamente rápida e 100% responsiva, desenvolvida
 - **Mobile-First (100% Responsivo):** Totalmente otimizado para celulares, tablets e computadores, garantindo que o cliente peça de qualquer dispositivo sem travamentos.
 
 ## 💻 Tecnologias Utilizadas
-- **Frontend:** React / Next.js, HTML5, CSS3
-- **Estilização:** Tailwind CSS (Estilização moderna e de alta performance)
+- **Frontend:** HTML5 e CSS3
 - **Hospedagem & Deploy:** Vercel
 
 ## ⚙️ Arquitetura e Customização Comercial
